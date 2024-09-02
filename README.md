@@ -81,7 +81,7 @@ What is the length of months for the savings account? 12
 Savings Account: Interest Earned: $50.00
 Savings Account: Updated Balance: $1050.00
 
-
+------------------------------------------------
 
 What is your initial CD account balance? 1000
 What is the APR for the CD account? 5
