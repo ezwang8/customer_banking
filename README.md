@@ -52,7 +52,7 @@ This program is tasked to calculate users' interest earned on their savings and 
 - **CD Interest Calculated:**
   The program finishes by using the CD account information to calculate the interest it'll earn and what your updated balance will become.
 
-### Explanation of Output Values
+## Explanation of Output Values
 
 After you run the program, you'll see two key outputs for both your Savings Account and CD Account:
 
