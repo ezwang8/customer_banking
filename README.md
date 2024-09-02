@@ -33,7 +33,7 @@ This program is tasked to calculate users' interest earned on their Savings and 
    python customer_banking.py
    ```
 
-## File Roles and Dependencies
+## File Roles
 
 - **`customer_banking.py`**: The main script that runs the program. It handles user input, calls the appropriate functions from the other files, and displays the final output to the user.
 
