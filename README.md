@@ -15,7 +15,7 @@ This program is tasked to calculate users' interest earned on their savings and 
    python --version
    ```
 
-   Depending on the system, use:
+   Depending on the system, use instead:
 
    ```bash
    python3 --version
