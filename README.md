@@ -1,7 +1,7 @@
 # Customer Banking System
 
 ## Project Overview
-This project allows users to calculate the interest they'll earn on savings and CD accounts. By inputting information on account balance, APR, and length of months in each account, you'll be given an estimated number on how much interest you'll and what your updated balance would become with the addition of the earned interest.
+This program is tasked to calculate users' interest earned on their savings and CD accounts. By inputting information on account balance, APR, and length of months in each account, you'll be given an estimated number on how much interest you'll earn and what your updated balance would become with the addition of the earned interest.
 
 ## Installation Instructions
 1. **Clone the Repository:**
