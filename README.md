@@ -1,7 +1,7 @@
 # Customer Banking System
 
 ## Project Overview
-This program is tasked to calculate users' interest earned on their savings and CD accounts. By inputting information on account balance, APR, and length of months in each account, you'll be given an estimated number on how much interest you'll earn and how much your balance will be updated with the interest.
+This program is tasked to calculate users' interest earned on their Savings and CD accounts. By inputting information on account balance, APR, and length of months in each account, you'll be given an estimated number on how much interest you'll earn and how much your balance will be updated with the interest.
 
 ## Installation Instructions
 1. **Clone the Repository:**
@@ -35,13 +35,13 @@ This program is tasked to calculate users' interest earned on their savings and 
 
 ## Usage Instructions
 - **Start On Savings Account:**
-  The program starts with the savings account. You'll be asked to input your current savings account balance.
+  The program starts with the Savings account. You'll be asked to input your current Savings account balance.
   
-- **Savings' APR and Months:**
-  To finish calculating the savings' interest rate, you'll also be asked to input the savings account's APR and length of months.
+- **Savings APR and Months:**
+  To finish calculating the Savings' interest rate, you'll also be asked to input the Savings account's APR and length of months.
   
 - **Savings Interest Calculated:**
-  The program will use the savings account information to calculate the interest it'll earn and what your updated balance will become.
+  The program will use the Savings account information to calculate the interest it'll earn and what your updated balance will become.
   
 - **Continue On CD Account:**
   The program continues with the CD account. You'll be asked to input your current CD account balance.
@@ -52,13 +52,13 @@ This program is tasked to calculate users' interest earned on their savings and 
 - **CD Interest Calculated:**
   The program finishes by using the CD account information to calculate the interest it'll earn and what your updated balance will become.
 
-## Explanation of Output Values
+## Output Values
 
-After you run the program, you'll see two key outputs for both your Savings Account and CD Account:
+After running the program and inputting your values, the following key output values will be displayed for your Savings and CD accounts:
 
-- **Interest Earned**: This value represents the amount of interest your account has gained over the specified period, based on the initial balance, the APR (Annual Percentage Rate), and the length of time (in months) you set.
+- **Interest Earned**: The amount of interest your account had accumulated. A higher initial acccount balance, APR (Annual Percentage Rate), and length of time (in months) would earn you more interest.
 
-- **Updated Balance**: This value shows your account's new balance after the interest has been added to the initial balance. It represents how much money is in the account after the interest is applied.
+- **Updated Balance**: Your account's new balance after being added by the interest earned. It shows how much money your account earned after the calculated interest is applied.
 
 ## Example
 ```
