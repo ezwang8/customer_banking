@@ -6,16 +6,16 @@ This project allows users to calculate the interest they'll earn on savings and 
 ## Installation Instructions
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ezwang8/python-challenge-1.git
+   git clone https://github.com/ezwang8/customer_banking.git
    ```
 2. **Navigate to the Project Directory:**
    ```bash
-   cd python-challenge-1
+   cd customer_banking
    ```
 3. **Run the Python Script:**
    Run the script, in your system's installed Python application, with:
    ```bash
-   python menu.py
+   python customer_banking.py
    ```
 
 ## Usage Instructions
