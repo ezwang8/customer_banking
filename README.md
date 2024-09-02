@@ -21,7 +21,7 @@ This program is tasked to calculate users' interest earned on their Savings and 
    python3 --version
    ```
 
-   The command will display `Python 3.x.x` if Python 3.x is installed. If not, you can download it in the website, [python.org](https://www.python.org/downloads/).
+   The command will display `Python 3.x.x` if Python 3.x is installed. If not, you can download it in the website: [python.org](https://www.python.org/downloads/).
 
 4. **Navigate to the Project Directory:**
    ```bash
