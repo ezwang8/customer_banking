@@ -23,15 +23,27 @@ This program is tasked to calculate users' interest earned on their Savings and 
 
    The command will display `Python 3.x.x` if Python 3.x is installed. If not, you can download it in the website: [python.org](https://www.python.org/downloads/).
 
-4. **Navigate to the Project Directory:**
+3. **Navigate to the Project Directory:**
    ```bash
    cd customer_banking
    ```
-5. **Run the Python Script:**
+4. **Run the Python Script:**
    Run the script, in your system's installed Python application, with:
    ```bash
    python customer_banking.py
    ```
+
+## File Roles and Dependencies
+
+- **`customer_banking.py`**: The main script that runs the program. It handles user input, calls the appropriate functions from the other files, and displays the final output to the user.
+
+- **`savings_account.py`**: Defines the `create_savings_account` function. It's used to calculate the interest earned on the Savings account and updates the account balance.
+
+- **`cd_account.py`**: Defines the `create_cd_account` function. It performs similar calculations from the `savings_account.py`, but for the CD account.
+
+- **`Account.py`**: Contains the `Account` class. It's a foundation for the Savings and CD accounts by defining methods to set and retrieve balances and interest.
+
+**Note**: `customer_banking.py` can only run if the other three dependency files are present. All four files must in the same directory for the program to run correctly. Make sure to follow the steps in the **Installation Instructions** to ensure that `customer_banking.py` runs successfully.
 
 ## Usage Instructions
 - **Start On Savings Account:**
