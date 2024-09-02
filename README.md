@@ -9,6 +9,7 @@ This program is tasked to calculate users' interest earned on their savings and 
    git clone https://github.com/ezwang8/customer_banking.git
    ```
 2. **Check to make sure Python is installed on your system.**
+
    Check by opening a terminal (Command Prompt, PowerShell, or any terminal on Linux/Mac) and typing the following command:
 
    ```bash
@@ -23,11 +24,11 @@ This program is tasked to calculate users' interest earned on their savings and 
 
    The command will display `Python 3.x.x` if Python 3.x is installed. If not, you can download it in the website, [python.org](https://www.python.org/downloads/).
 
-3. **Navigate to the Project Directory:**
+4. **Navigate to the Project Directory:**
    ```bash
    cd customer_banking
    ```
-4. **Run the Python Script:**
+5. **Run the Python Script:**
    Run the script, in your system's installed Python application, with:
    ```bash
    python customer_banking.py
