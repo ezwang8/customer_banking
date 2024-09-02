@@ -38,7 +38,7 @@ This program is tasked to calculate users' interest earned on their savings and 
 - **CD Interest Calculated:**
   The program finishes by using the CD account information to calculate the interest it'll earn and what your updated balance will become.
 
-**Example**:
+## Example
 ```
 What is your savings account balance? 1000
 What is the APR for the savings account? 5
