@@ -21,7 +21,7 @@ or, depending on your system, you may need to use:
 python3 --version
 ```
 
-The command will tell you which version of Python is currently installed. The terminal would display `Python 3.x.x` if Python is installed. Otherwise, you can download it in this website. [python.org](https://www.python.org/downloads/).
+The command will tell you which version of Python is currently installed. The terminal would display `Python 3.x.x` if Python is installed. Otherwise, you can download it in the website, [python.org](https://www.python.org/downloads/).
 
 3. **Navigate to the Project Directory:**
    ```bash
