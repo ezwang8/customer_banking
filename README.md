@@ -43,7 +43,7 @@ This program is tasked to calculate users' interest earned on their Savings and 
 
 - **`Account.py`**: Contains the `Account` class. It's a foundation for the Savings and CD accounts by defining methods to set and retrieve balances and interest.
 
-**Note**: `customer_banking.py` can only run if the other three dependency files are present. All four files must in the same directory for the program to run correctly. Make sure to follow the steps in the **Installation Instructions** to ensure that `customer_banking.py` runs successfully.
+**Note**: `customer_banking.py` can only run if the other three dependency files are present. All four files must be in the same folder/directory for the program to work. Follow the steps in the **Installation Instructions** to ensure that `customer_banking.py` runs successfully.
 
 ## Usage Instructions
 - **Start On Savings Account:**
