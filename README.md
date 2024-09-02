@@ -19,18 +19,36 @@ This project allows users to calculate the interest they'll earn on savings and 
    ```
 
 ## Usage Instructions
-- **Start the Program:**
-  You'll first be asked to 
+- **Start On Savings Account:**
+  The program starts with the savings account. You'll be asked to input your current savings account balance.
   
-- **Navigating the Menu:**
-  Type a number that represents the menu category you'd like to choose.
+- **Savings' APR and Months:**
+  To finish calculating the savings' interest rate, you'll also be asked to input the savings account's APR and length of months.
   
-- **Placing an Order:**
-  - Type the item's number to select it.
-  - Type the amount of that item you'd like to buy.
+- **Savings Interest Calculated:**
+  The program will use the savings account information to calculate the interest it'll earn and what your updated balance will become.
   
-- **Continue Ordering or Complete Order:**
-  - You'll be given 2 options after completing your order. Press 'Y' to make another order or 'N' to finish ordering.
+- **Continue On CD Account:**
+  The program continues with the CD account. You'll be asked to input your current CD account balance.
+
+- **CD's APR and Months:**
+  To finish calculating the CD interest rate, you'll also be asked to input the CD account's APR and length of months.
   
-- **Receipt:**
-  A receipt will be given to you. It show each item you ordered, the item's price, the quantity of that item you've purchased, and the total cost of all of your order(s).
+- **CD Interest Calculated:**
+  The program finishes by using the CD account information to calculate the interest it'll earn and what your updated balance will become.
+
+**Examples**:
+Here’s a sample interaction with the program:
+```
+What is your savings account balance? 1000
+What is the APR for the savings account? 5
+What is the length of months for the savings account? 12
+Savings Account: Interest Earned: $50.00
+Savings Account: Updated Balance: $1050.00
+
+What is your initial CD account balance? 1000
+What is the APR for the CD account? 5
+What is the length of months for your CD? 12
+CD Account: Interest Earned: $50.00
+CD Account: Updated Balance: $1050.00
+```
