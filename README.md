@@ -9,13 +9,13 @@ This program is tasked to calculate users' interest earned on their savings and 
    git clone https://github.com/ezwang8/customer_banking.git
    ```
 2. **Check to make sure Python is installed on your system.**
-   You can verify Python's installation by opening a terminal (Command Prompt, PowerShell, or any terminal on Linux/Mac) and typing the following command:
+   Check by opening a terminal (Command Prompt, PowerShell, or any terminal on Linux/Mac) and typing the following command:
 
    ```bash
    python --version
    ```
 
-   or, depending on your system, you may need to use:
+   depending on your system, you may need to use this instead:
 
    ```bash
    python3 --version
